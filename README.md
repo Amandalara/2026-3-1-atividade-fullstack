@@ -6,10 +6,25 @@
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
 - **Objetivo**:
   1. Atividade avaliativa para construção de aplicativo com frontend web e backend api restfull
-- **Observação**: pode usar agentes IA
+
+[A descrição da atividade](atividade.md)
 
 ---
-## Tarefas
-1. FIXME
+## Relato da atividade
+Nome do aluno e seu link do linkedin e github
+
+### Componentes e tecnologias
+
+quais tecnologia utilizdas?
+
+### Agente de IA
+
+Qual e como utilizou a IA?
+
+
+### Execução do projeto
+
+como executar o projeto?
+vídeo do projeto em execução
 
 ---
