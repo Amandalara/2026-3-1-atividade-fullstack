@@ -30,6 +30,7 @@
 
 ---
 ## Características do projeto
+- MOBILE FIRST!!!
 - O projeto será uma replica simplificada do x;
 - O titulo da aplicacao diatinf x;
 - Define pelo menos uma paleta de cores, exemplo a da DIATINF: #CE701B, #F1881D, #FDC616, #F9EBC2, #A4BCCC, e #0C3453;
