@@ -11,7 +11,7 @@
 
 ---
 ## Relato da atividade
-Nome do aluno e seu link do linkedin e github
+Amanda Lara Duarte da Costa e seu link do linkedin e github
 
 ### Componentes e tecnologias
 
