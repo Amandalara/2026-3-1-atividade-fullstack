@@ -49,7 +49,7 @@ Usei o GitHub Copilot na estrutura inicial do projeto, revisar trechos de códig
 
 ### Vídeo da execução do aplicativo
 
-Anexado no git
+https://github.com/Amandalara/2026-3-1-atividade-fullstack/blob/main/video_pos.mp4
 
 ### Projeto
 Paleta de cores:
