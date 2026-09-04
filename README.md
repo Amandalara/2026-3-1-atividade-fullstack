@@ -11,11 +11,14 @@
 
 ---
 ## Relato da atividade
-Nome do aluno e seu link do linkedin e github
+Amanda Lara Duarte da Costa - https://github.com/Amandalara
 
 ### Componentes e tecnologias
 
-quais tecnologia utilizdas?
+-React para a interface web
+-Vite para criação e execução do frontend
+-TypeScript no frontend e backend
+-Node.js para o servidor
 
 ### Agente de IA
 

@@ -9,8 +9,8 @@
   
 ---
 ## Tarefas
-- [ ] Fork desse respositório;
-- [ ] Atualize os textos de README.md com seu nome e links do github e linkedin;
+- [X] Fork desse respositório;
+- [X] Atualize os textos de README.md com seu nome e links do github e linkedin;
 - [ ] Decida e atualize em README.md o texto sobre os componentes/tecnologias;
 - [ ] Construa / Defina o protótipo de intergafe gráfica web para o aplicativo;
 - [ ] Construa o frontend web e a backend api restfull;
@@ -33,7 +33,7 @@
 - MOBILE FIRST!!!
 - O projeto será uma replica simplificada do x;
 - O titulo da aplicacao diatinf x;
-- Define pelo menos uma paleta de cores, exemplo a da DIATINF: #CE701B, #F1881D, #FDC616, #F9EBC2, #A4BCCC, e #0C3453;
+- Define pelo menos uma paleta de cores, exemplo a da DIATINF: rgb(190, 113, 46), #F1881D, #FDC616, #F9EBC2, #A4BCCC, e #0C3453;
 - As publicações dos usuários só podem conter textos;
 - A tela inicial é uma lista de publicações de outros usuários;
 - A tela inicial deve ter link (botão, menu, hyperlink, etc) para nova publicação, lista de suas publicações, seu perfil do usuário, pesquisa de publicações;
@@ -47,3 +47,11 @@
 - Criar um novo usuário somente com login no suap, ver exemplos [html+js](https://github.com/ifrn-oficial/cliente_suap_javascript) e [django](https://github.com/ifrn-oficial/cliente_suap_django);
 - Publicar frontend e backend em servidor de aplicação, como o [vercel](https://vercel.com/) e [netlify](https://app.netlify.com/);
 - Usar postgresql ou outro gerenciador de banco de dados no lugar de sqlite3.
+
+**Projeto**
+Paleta de cores:
+#14803D;
+#67D67A;
+#F5F5F5;
+#80110C;
+#CC3D35;
